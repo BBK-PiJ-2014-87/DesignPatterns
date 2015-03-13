@@ -1,5 +1,6 @@
 package designpattern.composition;
 /**
+ * A Classical Approach to Composition Design Pattern.
  * This class shows how ObjectPair class works.
  * 
  * @author Vladimirs Ivanovs
